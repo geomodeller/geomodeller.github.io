@@ -9,36 +9,36 @@ permalink: /about/
 Last update: 06/30/2023
 
 ## Education
-**Ph.D.** | **The University of Texas at Austin** | **2021**
->Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz)
->Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
+**Ph.D.** | **The University of Texas at Austin** | **2021** \
+Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz) \
+Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
 
-**M.S.** |	**Seoul National University, Korea** |  **2016**
->Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  
->Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
+**M.S.** |	**Seoul National University, Korea** |  **2016** \
+Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  \
+Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
 
-**B.S.** |	**Seoul National University, Korea**
->Energy Resources Engineering (Major) and Mechanical & Aerospace Engineering (Minor)
+**B.S.** |	**Seoul National University, Korea** \
+Energy Resources Engineering (Major) and Mechanical & Aerospace Engineering (Minor)
 
 ## Professional Experience
-1. **Inha University** | Assistant Professor | 2023 – Present
+1. **Inha University** | Assistant Professor | 2023 – Present \
 Research in CCUS, subsurface modeling and simulation, and associated ML applications
-2. **BP** | Full-time Reservoir Engineer | 2021 – 2023
+2. **BP** | Full-time Reservoir Engineer | 2021 – 2023 \
 Developed efficient workflow for data integration, uncertainty quantification, and production forecast in developing hydrocarbon
-3. **Lawrence Livermore National Lab** | Internship | 2021
+3. **Lawrence Livermore National Lab** | Internship | 2021 \
 Developed ML-assisted dynamic data integration workflow for CO2 sequestration management
-4. **BP** | Internship | 2020
+4. **BP** | Internship | 2020 \
 Developed ML-assisted uncertainty quantification workflows for offshore fields (i.e., Mad Dog, Thunder Horse, and Atlantis) of the Gulf of Mexico
-6. **Halliburton Landmark** | Internship | 2019
+6. **Halliburton Landmark** | Internship | 2019 \
 Developed a physics-informed ML proxy flow model and assisted history matching workflow
-7. **UT Austin** | Graduate Research Assistant | 2017-2021
+7. **UT Austin** | Graduate Research Assistant | 2017-2021 \
 Developed rule-based reservoir modeling for deepwater depositional system and broadened its application with deep-learning algorithm (i.e., GAN) for data conditioning and history matching
 Applied deep neural networks (i.e., UNet+ResNet) to mimic flow simulation in 3D digital rock
-8. **Korea Gas Corporation** | Full-time engineer | 2016 – 2017
+8. **Korea Gas Corporation** | Full-time engineer | 2016 – 2017 \
 Participated in Indonesia Senoro-Toili natural gas offshore field 
-9. **Seoul National Univ** | Graduate Research | 2014 – 2016
+9. **Seoul National Univ** | Graduate Research | 2014 – 2016 \
 Developed history matching algorithms (i.e., EnKF and ESMDA) with combining machine learning techniques such as PCA, DCT, K-means clustering, and Support Vector Machine 
-10. **Korea National Oil Corporation** | Internship | 2011
+10. **Korea National Oil Corporation** | Internship | 2011 \
 Assisted in managing onshore field drilling and completion workover
 
 ## Skills and Interests
