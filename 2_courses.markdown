@@ -19,5 +19,5 @@ permalink: /Courses/
 #### Introduction to Geostatsitcs | TA
 > Covers fundamental concepts of statistics and probability, exploring their relevance in modeling spatial variability, formation characterization, uncertainty analysis, data analytics, and machine learning
 
-### Subsurface Machine Learning | TA
+#### Subsurface Machine Learning | TA
 > Delves into the realms of data analytics, machine learning, and modeling, placing a specific emphasis on their applications within the context of the subsurface domain
