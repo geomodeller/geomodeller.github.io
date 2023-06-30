@@ -4,8 +4,9 @@ title: Honggeun Jo's CV
 permalink: /about/
 ---
 # HONGGEUN JO
-Last update: 2023/06/30
 [Linkedin][Linkedin_HJ] | [Github][Github_HJ] |  [GoogleScholar][Googlescholar_HJ] | ResearchLab (TBD)
+
+Last update: 06/30/2023
 
 ## Education
 **Ph.D.** | **The University of Texas at Austin** | **2021**
