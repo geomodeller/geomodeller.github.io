@@ -46,7 +46,7 @@ Published 12+ peer-reviewed papers in reservoir engineering and the associated M
 ## Leadership
 Republic of Korea Army (Military Service) | Squad Leader | Oct/2011- Jul/2013
 ## Publications
-### Peer-reviewed journal
+### Peer-reviewed 
 1.	**Jo, H.**, Pyrcz, M.J., Laugier, F., Sullivan, M., “Sensitivity Analysis of Geological Rule-based Subsurface Model Parameters on Fluid Flow,” AAPG Bulletin, Published in 2023
 2.	H.Mejia, J.L., **Jo, H.**, Pisel, J., Pyrcz, M.J., “Dynamic time warping for well injection and production history connectivity characterization,” Computational Geoseiences, Published in 2022  
 3.	**Jo, H.**, Cho, Y., Pyrcz, M.J., Tang, H., and Fu, P., “Machine learning-based porosity estimation from spectral decomposed seismic data,” Geophysics, Published in 2022.
