@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Honggeun Jo's CV
+title: CV
 permalink: /about/
 ---
 # HONGGEUN JO
