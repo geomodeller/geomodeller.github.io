@@ -1,8 +1,9 @@
 ---
 layout: page
-title:  "Little bit of myself!"
+title:  "Intro"
 categories: /Intro/
 ---
+## Little bit of myself!
 
 | ![space-1.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/main/last_day_in_BP.jpg?raw=true) | 
 |:--:| 
