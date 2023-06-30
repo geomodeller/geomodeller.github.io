@@ -10,35 +10,35 @@ Last update: 2023/06/30
 ## Education
 **Ph.D.** | **The University of Texas at Austin** | **2021**
 >Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz)
-Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
+>Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
 
 **M.S.** |	**Seoul National University, Korea** |  **2016**
 >Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  
-Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
+>Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
 
 **B.S.** |	**Seoul National University, Korea**
 >Energy Resources Engineering (Major) and Mechanical & Aerospace Engineering (Minor)
 
 ## Professional Experience
-- **Inha University** | Assistant Professor | 2023 – Present
+**Inha University** | Assistant Professor | 2023 – Present
     Research in CCUS, subsurface modeling and simulation, and associated ML applications
-- **BP** | Full-time Reservoir Engineer | 2021 – 2023
-    Developed efficient workflow for data integration, uncertainty quantification, and production forecast in developing hydrocarbon
-- **Lawrence Livermore National Lab** | Internship | 2021
-    Developed ML-assisted dynamic data integration workflow for CO2 sequestration management
-- **BP** | Internship | 2020
-    Developed ML-assisted uncertainty quantification workflows for offshore fields (i.e., Mad Dog, Thunder Horse, and Atlantis) of the Gulf of Mexico
-- **Halliburton Landmark** | Internship | 2019
-    Developed a physics-informed ML proxy flow model and assisted history matching workflow
-- **UT Austin** | Graduate Research Assistant | 2017-2021
-    Developed rule-based reservoir modeling for deepwater depositional system and broadened its application with deep-learning algorithm (i.e., GAN) for data conditioning and history matching
-    Applied deep neural networks (i.e., UNet+ResNet) to mimic flow simulation in 3D digital rock
-- **Korea Gas Corporation** | Full-time engineer | 2016 – 2017
-    Participated in Indonesia Senoro-Toili natural gas offshore field 
-- **Seoul National Univ** | Graduate Research | 2014 – 2016
-    Developed history matching algorithms (i.e., EnKF and ESMDA) with combining machine learning techniques such as PCA, DCT, K-means clustering, and Support Vector Machine 
-- **Korea National Oil Corporation** | Internship | 2011
-    Assisted in managing onshore field drilling and completion workover
+**BP** | Full-time Reservoir Engineer | 2021 – 2023
+Developed efficient workflow for data integration, uncertainty quantification, and production forecast in developing hydrocarbon
+**Lawrence Livermore National Lab** | Internship | 2021
+Developed ML-assisted dynamic data integration workflow for CO2 sequestration management
+**BP** | Internship | 2020
+Developed ML-assisted uncertainty quantification workflows for offshore fields (i.e., Mad Dog, Thunder Horse, and Atlantis) of the Gulf of Mexico
+**Halliburton Landmark** | Internship | 2019
+Developed a physics-informed ML proxy flow model and assisted history matching workflow
+**UT Austin** | Graduate Research Assistant | 2017-2021
+Developed rule-based reservoir modeling for deepwater depositional system and broadened its application with deep-learning algorithm (i.e., GAN) for data conditioning and history matching
+Applied deep neural networks (i.e., UNet+ResNet) to mimic flow simulation in 3D digital rock
+**Korea Gas Corporation** | Full-time engineer | 2016 – 2017
+Participated in Indonesia Senoro-Toili natural gas offshore field 
+**Seoul National Univ** | Graduate Research | 2014 – 2016
+Developed history matching algorithms (i.e., EnKF and ESMDA) with combining machine learning techniques such as PCA, DCT, K-means clustering, and Support Vector Machine 
+**Korea National Oil Corporation** | Internship | 2011
+Assisted in managing onshore field drilling and completion workover
 
 ## Skills and Interests
 Proficient in Python (scikit-learn, Tensorflow, PyTorch, and geostatspy), MATLAB, R, Bash
