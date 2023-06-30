@@ -8,14 +8,14 @@ Last update: 2023/06/30
 [Linkedin][Linkedin_HJ] | [Github][Github_HJ] |  [GoogleScholar][Googlescholar_HJ] | ResearchLab (TBD)
 
 ## Education
-**Ph.D.** | **The University of Texas at Austin** | **2021** \n
-    Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz)	\n
-    Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
-**M.S.** |	**Seoul National University, Korea** |  **2016** \n
-	Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  \n  
-    Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
-**B.S.** |	**Seoul National University, Korea** \n
-	Energy Resources Engineering (Major) and 	Mechanical & Aerospace Engineering (Minor)
+**Ph.D.** | **The University of Texas at Austin** | **2021**
+Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz)
+Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
+**M.S.** |	**Seoul National University, Korea** |  **2016**
+Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  
+Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
+**B.S.** |	**Seoul National University, Korea**
+Energy Resources Engineering (Major) and Mechanical & Aerospace Engineering (Minor)
 
 ## Professional Experience
 - **Inha University** | Assistant Professor | 2023 – Present
