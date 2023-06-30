@@ -9,20 +9,15 @@ Last update: 2023/06/30
 
 ## Education
 **Ph.D.** | **The University of Texas at Austin** | **2021**
-
-Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz)
-
+>Petroleum & Geosystems Engineering (Advisor: Dr. M. J. Pyrcz)
 Thesis: [Rule-based and machine learning hybrid reservoir modeling for improved forecasting](https://repositories.lib.utexas.edu/handle/2152/90034)
 
 **M.S.** |	**Seoul National University, Korea** |  **2016**
-
-Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  
-
+>Petroleum & Natural Gas Engineering (Advisor: Dr. J. Choe)  
 Thesis: [Characterization of Channel Reservoirs Using Ensemble Kalman Filter with Recursive Update of Channel Information](https://s-space.snu.ac.kr/handle/10371/123517)
 
 **B.S.** |	**Seoul National University, Korea**
-
-Energy Resources Engineering (Major) and Mechanical & Aerospace Engineering (Minor)
+>Energy Resources Engineering (Major) and Mechanical & Aerospace Engineering (Minor)
 
 ## Professional Experience
 - **Inha University** | Assistant Professor | 2023 – Present
