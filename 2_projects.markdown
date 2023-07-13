@@ -6,6 +6,7 @@ permalink: /Projects/
 
 ---------------------------
 # Undergraduate Research Program | Summer 2023
+
 ## Project CO2-VLP
 We are currently dedicated to developing a Python-based Equation of State (EOS) for CO2 that considers different temperature and pressure conditions, encompassing gas, liquid, and supercritical phases. Our ultimate goal is to create a vertical lift performance (VLP) for CO2 injection in subsurface environments, accommodating any surface conditions of CO2. By integrating this system with CO2 transportation and subsurface simulation, we aim to facilitate Life Cycle Assessment (LCA) for Carbon Capture, Utilization, and Storage (CCUS) projects.
 
@@ -27,7 +28,7 @@ Our primary focus revolves around the development of a geostatistical modeling w
 
 #### Participants: 
 **Joon Sung** | Undergraduate researcher \
-**Seungwoo Kang** | Undergraduate researcher \
+**Seungwoo Kang** | Undergraduate researcher 
 
 #### Collaborator: 
 **Jose Mejia** | Ph.D. Candiate at UT | Contact: jlherme@utexas.edu 
