@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Honggeun Jo
+title: Subsurface Analysis Lab at Inha Univ.
 email: honggeun.jo@inha.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   If you would like to learn more about our research or explore 
