@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Undergraduate Research Program | Summer 2023
+title: Projects
 permalink: /Projects/
 ---
 
@@ -12,13 +12,13 @@ We are currently dedicated to developing a Python-based Equation of State (EOS) 
 #### Participants: 
 **Ensil Park** | Undergraduate researcher \
 **Jinwoo Eo** | Undergraduate researcher  \
-**Gyuhyun Nam** | Undergraduate researcher \
+**Gyuhyun Nam** | Undergraduate researcher 
 
 #### Collaborator: 
-**Ilwoong Park** | Assistant Professor at Inha University | [Contact](https://iwpark.creatorlink.net/) 
+**Ilwoong Park** | Assistant Professor at Inha University | [WebPage](https://iwpark.creatorlink.net/) 
 
 #### Repository:
-https://github.com/PetroInha/Inha_CO2_VLP
+[https://github.com/PetroInha/Inha_CO2_VLP](https://github.com/PetroInha/Inha_CO2_VLP)
 
 
 ---------------------------
@@ -30,6 +30,6 @@ Our primary focus revolves around the development of a geostatistical modeling w
 **Seungwoo Kang** | Undergraduate researcher \
 
 #### Collaborator: 
-**Jose Mejia** | Ph.D. candiate at UT | Contact: jlherme@utexas.edu 
+**Jose Mejia** | Ph.D. Candiate at UT | Contact: jlherme@utexas.edu 
 #### Repository:
-https://github.com/PetroInha/Inha_CO2_geostats
+[https://github.com/PetroInha/Inha_CO2_geostats](https://github.com/PetroInha/Inha_CO2_geostats)
