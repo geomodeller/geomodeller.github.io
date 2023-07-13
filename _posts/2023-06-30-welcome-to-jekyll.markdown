@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Little bit of myself!"
+title:  "The move to academia!"
 date:   2023-06-30 14:54:49 +0900
 categories: jekyll update
 ---
