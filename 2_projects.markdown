@@ -31,6 +31,6 @@ Our primary focus revolves around the development of a geostatistical modeling w
 **Seungwoo Kang** | Undergraduate researcher 
 
 #### Collaborator: 
-**Jose Mejia** | Ph.D. Candiate at UT | Contact: jlherme@utexas.edu 
+**Jose L. Hernandez Mejia** | Ph.D. Candiate at UT | Contact: jlherme@utexas.edu 
 #### Repository:
 [https://github.com/PetroInha/Inha_CO2_geostats](https://github.com/PetroInha/Inha_CO2_geostats)
