@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![Me.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/main/another%20me.jpg?raw=true) | 
+| ![Me.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/miscellaneous_images/main/another%20me.jpg?raw=true) | 
 |:--:| 
 | Honggeun Jo (PI) |
 

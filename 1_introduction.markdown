@@ -5,7 +5,7 @@ categories: /Intro/
 ---
 ## Little bit of myself!
 
-| ![space-1.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/main/last_day_in_BP.jpg?raw=true) | 
+| ![space-1.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/main/miscellaneous_images/last_day_in_BP.jpg?raw=true) | 
 |:--:| 
 | My Farewell to BP: A Remarkable Journey of Broadening Perspectives |
 
