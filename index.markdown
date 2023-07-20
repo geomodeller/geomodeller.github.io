@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![Me.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/miscellaneous_images/main/LabLogo.jpg?raw=true) | 
+| ![Me.jpg](https://github.com/geomodeller/geomodeller.github.io/blob/miscellaneous_images/main/LabLogo.png?raw=true) | 
 |:--:| 
 | **Subsurface Analysis Lab (SAL)** |
 
